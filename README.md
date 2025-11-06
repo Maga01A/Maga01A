@@ -4,7 +4,6 @@
 <br/>
 - 🔭 ⚡I'm an energy engineer and currently pursuing a master's degree in electroenergetics.<br/>
 - 🌱 I interested Trading, Software and Psychology<br/>
-- 💹I'm interested in trading.<br>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 - 🔥I'm always learning.</br>
