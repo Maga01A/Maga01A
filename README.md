@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 I am a Software Engineer Student
+# Hello! 👋 I am a Energy Engineer and AI/Software Engineer
 <div>
 <br/>
 - 🔭 ⚡I'm an energy engineer and currently pursuing a master's degree in electroenergetics.<br/>
